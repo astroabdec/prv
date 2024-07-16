@@ -6,13 +6,12 @@
 
 内容持续更新中！完整的高精度视向速度提取的pipeline将在某些日子后上传， stay tuned!
 
-------
 
 
 
 ## 需要的软件
 
-----
+
 
 - iSpec: https://www.blancocuaresma.com/s/iSpec 
 
@@ -40,7 +39,7 @@
 
   - 相对视向速度
 
-    主要内容：一个手搓的pipeline，从多个观测的光谱出发，得到相对于一个template的视向速度及其误差 (目前可以到达10m/s的精度)
+    主要内容：一个手搓的pipeline，从多个观测的光谱出发，得到相对于一个template的视向速度及其误差 (目前可以到达10m/s的精度)，并且对FEROS有一个抽取二维光谱的过程
 
     目前简单的一个demo在prv文件夹中，pipeline将在后续更新上传
 
