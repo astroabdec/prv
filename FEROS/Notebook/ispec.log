@@ -1,0 +1,154 @@
+[2024-07-11 22:45:47,620] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-11 22:45:47,624] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-11 22:45:49,458] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-11 22:45:49,553] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-11 22:45:49,555] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-11 22:45:51,153] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-11 22:45:51,237] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-11 22:45:51,239] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-11 22:45:51,638] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-11 22:45:51,644] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-11 22:45:51,727] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-11 22:45:51,729] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-11 22:45:52,132] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-11 22:45:52,939] [INFO] [3795685159:determine_radial_velocity_with_template:6]: Radial velocity determination with template...
+[2024-07-11 22:45:52,986] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 0.00%
+[2024-07-11 22:45:53,485] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 10.04%
+[2024-07-11 22:45:53,931] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 20.09%
+[2024-07-11 22:45:54,326] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 30.13%
+[2024-07-11 22:45:54,758] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 40.18%
+[2024-07-11 22:45:55,147] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 50.22%
+[2024-07-11 22:45:55,585] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 60.27%
+[2024-07-11 22:45:55,965] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 70.31%
+[2024-07-11 22:45:56,434] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 80.36%
+[2024-07-11 22:45:56,866] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 90.40%
+[2024-07-11 22:45:57,314] [INFO] [lines:__model_velocity_profile:2455]: Peak found at -1.40 km/s (fitted at -1.43 +/- 0.17 km/s)
+[2024-07-13 16:25:14,563] [INFO] [utils:_init_num_threads:148]: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2024-07-13 16:25:14,564] [INFO] [utils:_init_num_threads:160]: NumExpr defaulting to 8 threads.
+[2024-07-13 16:28:35,321] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-13 16:28:35,327] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-13 16:28:44,139] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:28:44,214] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:28:44,216] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:31:44,388] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:31:44,465] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:31:44,467] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:34:01,874] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:34:01,951] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:34:01,952] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:35:00,636] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:35:00,718] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:35:00,719] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:35:32,701] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:35:32,780] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:35:32,782] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:36:12,445] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:36:12,524] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:36:12,526] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:37:12,267] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:37:12,345] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:37:12,347] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:37:49,694] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:37:49,771] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:37:49,773] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:39:04,848] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:39:04,929] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:39:04,931] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:39:49,116] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:39:49,194] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:39:49,196] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:40:00,328] [INFO] [utils:_init_num_threads:148]: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2024-07-13 16:40:00,328] [INFO] [utils:_init_num_threads:160]: NumExpr defaulting to 8 threads.
+[2024-07-13 16:40:06,579] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-13 16:40:06,584] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-13 16:40:10,728] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:40:10,807] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:40:10,809] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:40:26,593] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:40:26,675] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:40:26,677] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:40:48,869] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:40:48,947] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:40:48,949] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:41:07,764] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:41:07,843] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:41:07,844] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:41:08,073] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-13 16:41:08,075] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.01200 nm (R = 33333)
+[2024-07-13 16:41:08,119] [INFO] [continuum:__median_filter:307]: Median filter with step: 9
+[2024-07-13 16:41:08,121] [INFO] [continuum:__max_filter:298]: Max filter with step: 167
+[2024-07-13 16:41:08,337] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-13 16:41:13,371] [INFO] [3795685159:determine_radial_velocity_with_template:6]: Radial velocity determination with template...
+[2024-07-13 16:41:13,412] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 0.00%
+[2024-07-13 16:41:13,634] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 10.04%
+[2024-07-13 16:41:13,848] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 20.09%
+[2024-07-13 16:41:14,053] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 30.13%
+[2024-07-13 16:41:14,268] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 40.18%
+[2024-07-13 16:41:14,471] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 50.22%
+[2024-07-13 16:41:14,676] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 60.27%
+[2024-07-13 16:41:14,878] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 70.31%
+[2024-07-13 16:41:15,083] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 80.36%
+[2024-07-13 16:41:15,293] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 90.40%
+[2024-07-13 16:41:15,502] [INFO] [lines:__model_velocity_profile:2455]: Peak found at -1.40 km/s (fitted at -1.43 +/- 0.17 km/s)
+[2024-07-15 09:29:12,108] [INFO] [utils:_init_num_threads:148]: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2024-07-15 09:29:12,109] [INFO] [utils:_init_num_threads:160]: NumExpr defaulting to 8 threads.
+[2024-07-15 09:29:24,650] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-15 09:29:24,654] [INFO] [643192519:cut_spectrum_from_range:4]: Cutting...
+[2024-07-15 09:29:29,097] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:29:29,195] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:29:29,197] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:29:41,008] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:29:41,105] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:29:41,107] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:29:49,365] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:29:49,461] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:29:49,464] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:29:56,036] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:29:56,135] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:29:56,137] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:29:59,531] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:29:59,631] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:29:59,633] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:30:04,509] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:30:04,599] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:30:04,602] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:30:04,832] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-15 09:30:04,834] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00833 nm (R = 48000)
+[2024-07-15 09:30:04,896] [INFO] [continuum:__median_filter:307]: Median filter with step: 13
+[2024-07-15 09:30:04,898] [INFO] [continuum:__max_filter:298]: Max filter with step: 241
+[2024-07-15 09:30:05,130] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-15 09:30:08,761] [INFO] [3795685159:determine_radial_velocity_with_template:6]: Radial velocity determination with template...
+[2024-07-15 09:30:08,804] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 0.00%
+[2024-07-15 09:30:09,013] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 10.04%
+[2024-07-15 09:30:09,206] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 20.09%
+[2024-07-15 09:30:09,401] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 30.13%
+[2024-07-15 09:30:09,598] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 40.18%
+[2024-07-15 09:30:09,796] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 50.22%
+[2024-07-15 09:30:09,993] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 60.27%
+[2024-07-15 09:30:10,187] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 70.31%
+[2024-07-15 09:30:10,381] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 80.36%
+[2024-07-15 09:30:10,580] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 90.40%
+[2024-07-15 09:30:10,779] [INFO] [lines:__model_velocity_profile:2455]: Peak found at -1.40 km/s (fitted at -1.43 +/- 0.17 km/s)
+[2024-07-15 09:46:40,757] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00211 nm (R = 189628)
+[2024-07-15 09:46:41,028] [INFO] [continuum:__median_filter:307]: Median filter with step: 47
+[2024-07-15 09:46:41,043] [INFO] [continuum:__max_filter:298]: Max filter with step: 949
+[2024-07-15 09:46:42,270] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00211 nm (R = 189628)
+[2024-07-15 09:46:42,521] [INFO] [continuum:__median_filter:307]: Median filter with step: 47
+[2024-07-15 09:46:42,536] [INFO] [continuum:__max_filter:298]: Max filter with step: 949
+[2024-07-15 09:46:42,957] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-15 09:46:42,960] [INFO] [continuum:__fit_continuum:637]: Resampling spectrum to wave_step: 0.00211 nm (R = 189628)
+[2024-07-15 09:46:43,193] [INFO] [continuum:__median_filter:307]: Median filter with step: 47
+[2024-07-15 09:46:43,208] [INFO] [continuum:__max_filter:298]: Max filter with step: 949
+[2024-07-15 09:46:43,630] [INFO] [1845456760:normalize_whole_spectrum:28]: Continuum normalization...
+[2024-07-15 09:46:46,749] [INFO] [3795685159:determine_radial_velocity_with_template:6]: Radial velocity determination with template...
+[2024-07-15 09:46:46,790] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 0.00%
+[2024-07-15 09:46:47,002] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 10.04%
+[2024-07-15 09:46:47,200] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 20.09%
+[2024-07-15 09:46:47,399] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 30.13%
+[2024-07-15 09:46:47,600] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 40.18%
+[2024-07-15 09:46:47,811] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 50.22%
+[2024-07-15 09:46:48,008] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 60.27%
+[2024-07-15 09:46:48,204] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 70.31%
+[2024-07-15 09:46:48,402] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 80.36%
+[2024-07-15 09:46:48,597] [INFO] [lines:__cross_correlation_function_uniform_in_velocity:1994]: 90.40%
+[2024-07-15 09:46:48,796] [INFO] [lines:__model_velocity_profile:2455]: Peak found at -1.40 km/s (fitted at -1.43 +/- 0.17 km/s)
