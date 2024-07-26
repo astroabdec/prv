@@ -21,6 +21,6 @@
     - Get_orders是从ESO下载的FEROS的光谱数据3081.fits中找到每一个order的光谱并进行处理，得到计算prv过程的输入数据，并存到相应的路径中
       - note：请将下载解压好的FEROS光谱文件夹放在FEROS/Spectra/中，在Get_orders notebook中修改target name就可以
   - Spectra文件夹：
-      - 
+    - Absolute RV文件夹中HD 81797是袁老师绝对视向速度用的标准星，notebook中tm
 - prv文件夹中的Get_prv文件夹中
     -
