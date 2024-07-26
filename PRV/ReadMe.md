@@ -15,10 +15,10 @@
 - 将pipeline分成了三个独立的code
   - prv文件夹中的FEROS文件夹中
     - Notebook文件夹：
-      - Get_Absolute_RV是利用iSpec获取绝对视向速度，加入了去除telluric lines，输入是从ESO下载的FEROS光谱中单独的那个fits文件
+      - Get_Absolute_RV是利用iSpec获取绝对视向速度，加入了去除telluric lines
         - note：注意修改iSpec路径为安装路径
       - Get_orders是从ESO下载的FEROS的光谱数据3081.fits中找到每一个order的光谱并进行处理，得到计算prv过程的输入数据，并存到相应的路径中
-        - note：请将下载解压好的FEROS光谱文件夹放在FEROS/Spectra/中，之后在Get_Absolute_RV在Get_orders的notebook中修改target name就可以
+        - note：请将下载解压好的FEROS光谱文件夹放在FEROS/Spectra/中，之后在Get_Absolute_RV中设置hd_path，在Get_orders的notebook中修改target name就可以
         - 我们在对order处理时只保留了每个order中间的3000个pixel，并且
     - Spectra文件夹：
       - Absolute RV文件夹中HD 81797是袁老师绝对视向速度用的标准星，notebook中temp_path设置成这个
