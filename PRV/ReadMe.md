@@ -12,7 +12,7 @@
 
 文件夹结构：
 
-- 将pipeline分成了三个独立的code
+- 将pipeline分成了三个独立的code (获取prv：先下载FEROS光谱，然后用get_orders获取每个order的数据，再用Get_prv)
   - prv文件夹中的FEROS文件夹中
     - Notebook文件夹：
       - Get_Absolute_RV是利用iSpec获取绝对视向速度，加入了去除telluric lines
